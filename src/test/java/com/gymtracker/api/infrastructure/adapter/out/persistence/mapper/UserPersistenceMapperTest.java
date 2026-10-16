@@ -1,8 +1,7 @@
-package com.gymtracker.api.infrastructure.out.persistence.mapper;
+package com.gymtracker.api.infrastructure.adapter.out.persistence.mapper;
 
 import com.gymtracker.api.domain.model.User;
 import com.gymtracker.api.infrastructure.adapter.out.persistence.entity.UserJpaEntity;
-import com.gymtracker.api.infrastructure.adapter.out.persistence.mapper.UserPersistenceMapper;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
